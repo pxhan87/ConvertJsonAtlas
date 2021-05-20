@@ -1,0 +1,230 @@
+{
+    "frames": {
+        "aim_fish_0.png": {
+            "frame": { "x": 229, "y": 191, "w": 51, "h": 43 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 51, "h": 43 },
+            "sourceSize": { "w": 51, "h": 43 }
+        },
+        "aim_fish_1.png": {
+            "frame": { "x": 269, "y": 115, "w": 51, "h": 40 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 51, "h": 40 },
+            "sourceSize": { "w": 51, "h": 40 }
+        },
+        "aim_fish_10.png": {
+            "frame": { "x": 162, "y": 2, "w": 64, "h": 51 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 51 },
+            "sourceSize": { "w": 64, "h": 51 }
+        },
+        "aim_fish_100.png": {
+            "frame": { "x": 265, "y": 59, "w": 54, "h": 48 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 48 },
+            "sourceSize": { "w": 54, "h": 48 }
+        },
+        "aim_fish_101.png": {
+            "frame": { "x": 160, "y": 78, "w": 68, "h": 52 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 52 },
+            "sourceSize": { "w": 68, "h": 52 }
+        },
+        "aim_fish_102.png": {
+            "frame": { "x": 214, "y": 68, "w": 49, "h": 61 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 61 },
+            "sourceSize": { "w": 49, "h": 61 }
+        },
+        "aim_fish_103.png": {
+            "frame": { "x": 188, "y": 263, "w": 61, "h": 57 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 57 },
+            "sourceSize": { "w": 61, "h": 57 }
+        },
+        "aim_fish_104.png": {
+            "frame": { "x": 127, "y": 340, "w": 70, "h": 69 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 69 },
+            "sourceSize": { "w": 70, "h": 69 }
+        },
+        "aim_fish_105.png": {
+            "frame": { "x": 102, "y": 118, "w": 56, "h": 74 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 74 },
+            "sourceSize": { "w": 56, "h": 74 }
+        },
+        "aim_fish_106.png": {
+            "frame": { "x": 49, "y": 450, "w": 72, "h": 58 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 58 },
+            "sourceSize": { "w": 72, "h": 58 }
+        },
+        "aim_fish_11.png": {
+            "frame": { "x": 2, "y": 375, "w": 73, "h": 58 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 58 },
+            "sourceSize": { "w": 73, "h": 58 }
+        },
+        "aim_fish_12.png": {
+            "frame": { "x": 2, "y": 218, "w": 78, "h": 46 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 46 },
+            "sourceSize": { "w": 78, "h": 46 }
+        },
+        "aim_fish_13.png": {
+            "frame": { "x": 172, "y": 194, "w": 67, "h": 55 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 67, "h": 55 },
+            "sourceSize": { "w": 67, "h": 55 }
+        },
+        "aim_fish_14.png": {
+            "frame": { "x": 217, "y": 131, "w": 50, "h": 58 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 58 },
+            "sourceSize": { "w": 50, "h": 58 }
+        },
+        "aim_fish_15.png": {
+            "frame": { "x": 70, "y": 295, "w": 72, "h": 52 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 52 },
+            "sourceSize": { "w": 72, "h": 52 }
+        },
+        "aim_fish_16.png": {
+            "frame": { "x": 186, "y": 412, "w": 69, "h": 51 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 69, "h": 51 },
+            "sourceSize": { "w": 69, "h": 51 }
+        },
+        "aim_fish_17.png": {
+            "frame": { "x": 103, "y": 194, "w": 71, "h": 67 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 67 },
+            "sourceSize": { "w": 71, "h": 67 }
+        },
+        "aim_fish_18.png": {
+            "frame": { "x": 62, "y": 375, "w": 72, "h": 63 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 63 },
+            "sourceSize": { "w": 72, "h": 63 }
+        },
+        "aim_fish_19.png": {
+            "frame": { "x": 50, "y": 218, "w": 75, "h": 51 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 51 },
+            "sourceSize": { "w": 75, "h": 51 }
+        },
+        "aim_fish_2.png": {
+            "frame": { "x": 160, "y": 148, "w": 44, "h": 55 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 55 },
+            "sourceSize": { "w": 44, "h": 55 }
+        },
+        "aim_fish_20.png": {
+            "frame": { "x": 124, "y": 267, "w": 71, "h": 62 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 62 },
+            "sourceSize": { "w": 71, "h": 62 }
+        },
+        "aim_fish_21.png": {
+            "frame": { "x": 2, "y": 298, "w": 75, "h": 66 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 66 },
+            "sourceSize": { "w": 75, "h": 66 }
+        },
+        "aim_fish_3.png": {
+            "frame": { "x": 198, "y": 326, "w": 49, "h": 50 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 50 },
+            "sourceSize": { "w": 49, "h": 50 }
+        },
+        "aim_fish_4.png": {
+            "frame": { "x": 259, "y": 2, "w": 55, "h": 53 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 55, "h": 53 },
+            "sourceSize": { "w": 55, "h": 53 }
+        },
+        "aim_fish_5.png": {
+            "frame": { "x": 215, "y": 2, "w": 57, "h": 42 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 42 },
+            "sourceSize": { "w": 57, "h": 42 }
+        },
+        "aim_fish_6.png": {
+            "frame": { "x": 123, "y": 449, "w": 61, "h": 61 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 61 },
+            "sourceSize": { "w": 61, "h": 61 }
+        },
+        "aim_fish_7.png": {
+            "frame": { "x": 118, "y": 2, "w": 74, "h": 42 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 42 },
+            "sourceSize": { "w": 74, "h": 42 }
+        },
+        "aim_fish_8.png": {
+            "frame": { "x": 314, "y": 2, "w": 51, "h": 49 },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 51, "h": 49 },
+            "sourceSize": { "w": 51, "h": 49 }
+        },
+        "aim_fish_9.png": {
+            "frame": { "x": 2, "y": 450, "w": 45, "h": 60 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 60 },
+            "sourceSize": { "w": 45, "h": 60 }
+        },
+        "aim_target_bg1.png": {
+            "frame": { "x": 2, "y": 118, "w": 98, "h": 98 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 7, "y": 11, "w": 98, "h": 98 },
+            "sourceSize": { "w": 114, "h": 114 }
+        },
+        "aim_target_bg2.png": {
+            "frame": { "x": 2, "y": 2, "w": 114, "h": 114 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 114 },
+            "sourceSize": { "w": 114, "h": 114 }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker ",
+        "version": "1.0",
+        "image": "aim_fish_target.png",
+        "format": "RGBA8888",
+        "size": { "w": 512, "h": 512 },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:42a9b32c3327a61d093663e232dc0b3d:099b85f39abcf3a790e4ab9330f52487:a03d1f63c9ffa2f898d495c1c83ae9b3$"
+    }
+}
